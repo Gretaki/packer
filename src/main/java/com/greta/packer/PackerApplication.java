@@ -9,5 +9,4 @@ public class PackerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PackerApplication.class, args);
 	}
-
 }
